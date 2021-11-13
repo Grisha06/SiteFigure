@@ -1,0 +1,19 @@
+{
+  "Datas": {
+    "3570": {
+      "AdminStr1": "AdminStr1 is sheet",
+      "AdminStr2": "AdminStr2 is sheet too"
+    },
+    "1234": {
+      "My Ass": "You mother!"
+    },
+    "lgilkb": {
+      "Secret": "Sniper Monke"
+    }
+  },
+  "Accs": {
+    "Admin": "3570",
+    "My Ass": "1234",
+    "Grigory": "lgilkb"
+  }
+}
